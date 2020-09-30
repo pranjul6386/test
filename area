@@ -1,6 +1,6 @@
   
 def findArea(r): 
-    PI = 3.142
+    PI = 5.3
     return PI * (r*r); 
   
 # Driver method 
